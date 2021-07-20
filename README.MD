@@ -1,2 +1,2 @@
-# Design Patterns Implemented in TypeScript
+# Design Patterns in TypeScript
 ### See `package.json` for more details
